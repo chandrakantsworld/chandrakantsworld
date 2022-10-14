@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chandrakant Wani
-- 👀 I’m interested building enterprise products
+- 👀 I’m interested in building enterprise products
 - 🌱 I’m currently learning security aspects about enterprise application
 - 📫 How to reach me chanduwani89@gmail.com
 
